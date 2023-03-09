@@ -309,7 +309,6 @@ PRODUCT_COPY_FILES += \
 # NFC
 PRODUCT_PACKAGES += \
     com.android.nfc_extras \
-    NfcNci \
     Tag
 
 PRODUCT_PACKAGES += \
